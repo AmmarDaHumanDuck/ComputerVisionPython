@@ -1,3 +1,6 @@
+
+# This calculator is one of my first few mini Python Projects during my learning journey
+
 print ("Welcome to the Python Calculator")
 print ("Please start by inputting a number from 1 to 4 for the following options: \n Choose operation:\n 1. Add\n 2. Subtract\n 3. Multiply\n 4. Divide")
 
